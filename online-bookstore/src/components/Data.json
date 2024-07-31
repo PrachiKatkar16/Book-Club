@@ -1,0 +1,189 @@
+{
+    "bestseller_books":[
+        {
+            "imgUrl":"https://www.99booksstore.com/uploaded_files/product/392270829.webp",
+            "name":"Shatter Me - (Shatter Me Series: Book-1) ",
+            "author":"Tahereh Mafi",
+            "price":"₹249",
+            "description":"A fragile teenage girl is held captive. Locked in a cell by The Reestablishment, a harsh dictatorship in charge of a crumbling world. But Juliette is no ordinary teenager one touch from her can kill.The Reestablishment wants to use her as a weapon. But Juliette has other plans. After a lifetime without freedom, she’s finally discovered the strength to fight back – and to find a future with the one person she thought she’d lost forever…."
+        },
+        {
+            "imgUrl":"https://www.99booksstore.com/uploaded_files/product/308648359.webp",
+            "name":"It Starts With Us",
+            "author":"Colleen Hoover",
+            "price":"₹249"
+        },
+        {
+            "imgUrl":"https://www.99booksstore.com/uploaded_files/product/1703743911.jpg",
+            "name":"The Psychology Of Money",
+            "author":"Morgan Housel",
+            "price":"₹189"
+        },
+        {
+            "imgUrl":"https://www.99booksstore.com/uploaded_files/product/1703750059.jpg",
+            "name":"How To Win Friends And Influence People",
+            "author":"Dale Carnegie",
+            "price":"₹125"
+        },
+        {
+            "imgUrl":"https://www.99booksstore.com/uploaded_files/product/112423815.webp",
+            "name":"The Subtle Art Of Not Giving A F*Ck",
+            "author":"Mark Mansion",
+            "price":"₹179"
+        },
+        {
+            "imgUrl":"https://www.99booksstore.com/uploaded_files/product/160555759.webp",
+            "name":"The Alchemist",
+            "author":"Paulo Coelho",
+            "price":"₹149"
+        },
+        {
+            "imgUrl":"https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/601/9789357027601.jpg",
+            "name":"Why Bharat Matters",
+            "author":"S. Jaishankar",
+            "price":"₹487"
+        }
+       
+    ],
+    "New_Arrivals":[
+        {
+           
+            "imgUrl":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1461354651i/15839976.jpg",
+            "name":"Red Rising",
+            "author":"Pierce Brown",
+            "rating":"4.27",
+            "description":"Red Rising by Pierce Brown is a dystopian science fiction novel set on a colonized Mars. It follows Darrow, a low-born Red miner who infiltrates the ruling Gold class to lead a revolution against the oppressive Society. Through intense training and brutal competition, Darrow seeks to dismantle the caste system from within, driven by the desire for justice and vengeance for his people. The novel explores themes of power, sacrifice, and the struggle for freedom."
+         },
+        {
+            
+            "imgUrl":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1551144577i/18405.jpg",
+            "name":"Gone with the Wind",
+            "author":"Margaret Mitchell",
+            "rating":"4.31",
+            "description":"Gone with the Wind by Margaret Mitchell is an epic historical novel set in the American South during the Civil War and Reconstruction era. It follows the life of Scarlett O'Hara, a strong-willed and resourceful Southern belle, as she navigates love, loss, and survival amidst the turmoil. The novel explores themes of resilience, romance, and the complexities of social and racial issues in a changing world."
+        },
+        {
+            
+            "imgUrl":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441814056i/26257680.jpg",
+            "name":"Modi's World: Expanding India's Sphere of Influence",
+            "author":"C. Raja Mohan",
+            "rating":"3.86",
+            "description":"Modi's World: Expanding India's Sphere of Influence by C. Raja Mohan analyzes the foreign policy strategies and global ambitions of Indian Prime Minister Narendra Modi. The book examines how Modi's leadership has aimed to enhance India's global standing through diplomatic engagements, economic initiatives, and strategic partnerships. It provides insights into India's evolving role in international affairs and the challenges and opportunities it faces in shaping a new global order."
+
+        },
+        {
+        
+            "imgUrl":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1528206996i/38746485.jpg",
+            "name":"Becoming",
+            "author":"Michelle Obama",
+            "rating":"4.45",
+            "description":"Becoming by Michelle Obama is an intimate memoir that chronicles her journey from growing up on the South Side of Chicago to becoming the First Lady of the United States. The book offers insights into her personal life, her professional achievements, and her time in the White House, highlighting her resilience, values, and dedication to empowering others."
+
+        },
+        {
+            
+            "imgUrl":"https://www.99booksstore.com/uploaded_files/product/392270829.webp",
+            "name":"Shatter Me - (Shatter Me Series: Book-1) (Paperback) - Tahereh Mafi",
+            "author":"Tahereh Mafi",
+            "rating":"4.27",
+            "description":"A fragile teenage girl is held captive. Locked in a cell by The Reestablishment, a harsh dictatorship in charge of a crumbling world. But Juliette is no ordinary teenager one touch from her can kill.The Reestablishment wants to use her as a weapon. But Juliette has other plans. After a lifetime without freedom, she’s finally discovered the strength to fight back – and to find a future with the one person she thought she’d lost forever…."
+        },
+        {
+            
+            "imgUrl":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549241208i/43798285.jpg",
+            "name":"The Institute",
+            "author":"Stephen King",
+            "rating":"4.20",
+            "description":"The Institute by Stephen King is a gripping thriller about children with special abilities who are abducted and imprisoned in a sinister facility known as the Institute. The story follows Luke Ellis, a gifted boy who is taken to the Institute after his parents are murdered. There, he meets other children with extraordinary talents, and together they plan a daring escape. The novel explores themes of power, resilience, and the fight for freedom against oppressive forces."
+
+        },
+        {
+            
+            "imgUrl":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417467183i/14288998.jpg",
+            "name":"Into the Still Blue",
+            "author":"Veronica Rossi",
+            "rating":"4.27",
+            "description":"Into the Still Blue by Veronica Rossi is the thrilling conclusion to the Under the Never Sky trilogy. It follows Aria and Perry as they race against time to find the Still Blue, a safe haven from the deadly Aether storms ravaging their world. Facing treacherous enemies and daunting challenges, they must rely on their bond and determination to secure a future for their people."
+
+        },
+        {
+            
+            "imgUrl":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441898584i/3798703.jpg",
+            "name":"The Spectacular Now",
+            "author":"Tim Tharp",
+            "rating":"3.51",
+            "description":"The Spectacular Now by Tim Tharp is a poignant coming-of-age novel that follows Sutter Keely, a charismatic high school senior who lives in the moment and enjoys a carefree lifestyle. As he befriends Aimee, a shy and introverted girl, their relationship challenges both of them to confront their realities and dreams for the future. The story explores themes of self-discovery, love, and the complexities of adolescence."
+        },
+        {
+            
+            "imgUrl":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1340892848i/13253276.jpg",
+            "name":"Through the Ever Night",
+            "author":"Veronica Rossi",
+            "rating":"4.13",
+            "description":"Through the Ever Night by Veronica Rossi is the second book in the Under the Never Sky trilogy. It continues the story of Aria and Perry as they reunite and face new challenges in their quest for survival in a world plagued by Aether storms. As they navigate dangerous alliances and growing tensions among their people, their bond is tested, and they must make difficult decisions to protect those they love."
+        }
+    ],
+    "image_by_category":[
+        {
+            "imgUrl":"https://static01.nyt.com/images/2021/08/27/books/review/fall-ya-preview-1/fall-ya-preview-1-videoSixteenByNineJumbo1600.png"
+        },
+        {
+            "imgUrl":"https://assets.readbrightly.com/wp-content/uploads/2019/10/books-show-kids-goodness-feat.jpg"
+        },
+        {
+            "imgUrl":"https://cdn.aarp.net/content/aarpe/en/home/entertainment/books/info-2020/inspirational-books/_jcr_content/root/container_main/container_body_main/container_body3/container_body_cf/container_additional_3/container_2123475527/featuredlist/tabItem/summer-reading-guide2.coreimg.50.932.jpeg/content/dam/aarp/entertainment/books/2020/05/1140-2020-summer-books.jpg"
+        }
+    ],
+    "trending":[
+        {
+            "image": "https://www.bookswagon.com/productimages/images200/149/9781974720149.jpg",
+            "title": "Jujutsu Kaisen 0",
+            "author": "Gege Akutami",
+            "rating": 4.7,
+            "reviews": 7,
+            "discount": 33,
+            "price": 675,
+            "originalPrice": 1008
+          },
+          {
+            "image": "https://www.bookswagon.com/productimages/images200/544/9781421520544.jpg",
+            "title": "Vagabond (Vizbig Edition), Vol. 1",
+            "author": "Takehiko Inoue",
+            "rating": 4.7,
+            "reviews": 9,
+            "discount": 34,
+            "price": 1412,
+            "originalPrice": 2139
+          },
+          {
+            "image": "https://www.bookswagon.com/productimages/images200/463/9781421522463.jpg",
+            "title": "Vagabond (Vizbig Edition), Vol. 4",
+            "author": "Takehiko Inoue",
+            "rating": 5,
+            "reviews": 7,
+            "discount": 35,
+            "price": 1390,
+            "originalPrice": 2139
+          },
+          {
+            "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/086/9780241252086.jpg",
+            "title": "White Nights",
+            "author": "Ronald Meyer",
+            "rating": 5,
+            "reviews": 6,
+            "discount": 5,
+            "price": 305,
+            "originalPrice": 321
+          },
+          {
+            "image": "https://d2g9wbak88g7ch.cloudfront.net/productimages/images200/468/9781685798468.jpg",
+            "title": "Heaven Official's Blessing: Tian Guan CI Fu (Novel) Vol. 8",
+            "author": "Mo Xiang Ton...",
+            "rating": 5,
+            "reviews": 8,
+            "discount": 35,
+            "price": 1877,
+            "originalPrice": 2888
+          }
+    ]
+}
